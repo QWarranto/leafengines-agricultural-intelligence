@@ -1,0 +1,17 @@
+name: Validate Skill
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Validate Skill Structure
+        run: python validate_skill.py
+      - name: Test Skill Examples
+        run: python test_skill.py
