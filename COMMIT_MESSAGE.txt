@@ -1,0 +1,12 @@
+Add complete agricultural intelligence Claude skill
+
+- Core skill definition (SKILL.md) with YAML frontmatter and examples
+- Python analysis engine (soil_analysis.py) for soil analysis, crop recommendations, profitability calculations
+- Testing suite (test_skill.py) with example agricultural queries
+- Agricultural reference data (REFERENCE.md) with formulas and best practices
+- Validation and packaging scripts for quality assurance
+- GitHub Actions workflow for CI/CD and automated testing
+- MIT License for open source distribution
+- Comprehensive documentation (README.md, INSTALL.md)
+
+Ready for Claude integration, automatic updates, and community contributions.
