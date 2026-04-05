@@ -3,3 +3,4 @@
 
 Flask
 gunicorn
+pyyaml>=6.0
