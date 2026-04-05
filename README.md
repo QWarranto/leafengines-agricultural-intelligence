@@ -129,8 +129,8 @@ Add new API endpoints in the appropriate script files for additional data source
 `https://leafengines-agricultural-intelligence.onrender.com`
 
 ### How to Get Access
-1. **Comment on our [Emergency API Access Request Issue](https://github.com/QWarranto/leafengines-agricultural-intelligence/issues/1)**
-   *(Issue #1 - Emergency API Access)*
+1. **Comment on our [Emergency API Access Request Issue #2](https://github.com/QWarranto/leafengines-agricultural-intelligence/issues/2)**
+   *(Issue #2 - Emergency API Access)*
 2. Receive API key via email
 3. Choose from 6 payment methods (PayPal, Cash App, Venmo, Bitcoin, Ethereum, Solana)
 4. Start making API calls immediately
