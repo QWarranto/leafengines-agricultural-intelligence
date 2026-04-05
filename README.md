@@ -121,6 +121,29 @@ Add new API endpoints in the appropriate script files for additional data source
 - API calls use secure HTTPS connections
 - Agricultural data is treated as confidential
 
+## 🚨 Emergency API Access
+
+**We've deployed a working API to serve the 1,532 developers who cloned this repository!**
+
+### API URL
+`https://leafengines-agricultural-intelligence.onrender.com`
+
+### How to Get Access
+1. **Comment on our [Emergency API Access Request Issue](https://github.com/QWarranto/leafengines-agricultural-intelligence/issues/1)**
+   *(Issue #1 - Emergency API Access)*
+2. Receive API key via email
+3. Choose from 6 payment methods (PayPal, Cash App, Venmo, Bitcoin, Ethereum, Solana)
+4. Start making API calls immediately
+
+### Available Endpoints
+- `POST /v1/soil/analyze` - Soil analysis with NPK recommendations
+- `POST /v1/crop/recommend` - Crop recommendations based on soil/weather
+- `GET /v1/health` - Service status check
+- `POST /v1/auth/validate` - Validate API key
+
+### Why This Matters
+We discovered 1,532 developers cloned this repo expecting a working API. Rather than leave them waiting, we deployed a minimal viable API within hours. This demonstrates our commitment to serving the agricultural AI community.
+
 ## Acknowledgments
 This skill was developed with feedback from 1,977 agricultural professionals on Reddit who identified critical issues like sensor drift and calibration requirements.
 
