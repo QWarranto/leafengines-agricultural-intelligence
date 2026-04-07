@@ -68,7 +68,7 @@ leafengines-claude-skill/
 ## Integration Points
 
 ### External APIs
-- **SoilSidekickPro**: `https://app.soilsidekickpro.com/founders`  <--first 100 only; lifetime pricing
+- **SoilSidekickPro**: `https://app.soilsidekickpro.com/founders`  <--first 100 only; lifetime pricing discounted up to 70%
 - **USDA Soil Data**: SSURGO database access
 - **Market Prices**: Real-time commodity pricing
 - **Weather Data**: NOAA and weather service integration
@@ -123,7 +123,7 @@ Add new API endpoints in the appropriate script files for additional data source
 
 ## 🚨 Emergency API Access
 
-**We've deployed a working API to serve the 1,532 developers who cloned this repository after the Founders and Lifetime Pricing for the first 100 has completed!**
+**We've deployed a working API to serve the 1,532 developers who cloned this repository, after the first 100 Founders under lifetime pricing has completed!**
 
 ### API URL
 `https://leafengines-agricultural-intelligence.onrender.com`
