@@ -1,7 +1,7 @@
 # LeafEngines Agricultural Intelligence Claude Skill
 
 ## Overview
-This Claude Skill provides agricultural intelligence including soil analysis, crop recommendations, profit calculations, and farm optimization advice. It's designed for farmers, agricultural professionals, and anyone working with soil data.
+This Claude Skill provides agricultural intelligence including soil analysis, crop recommendations, profit calculations, and farm optimization advice. It's designed for farmers, agricultural professionals, and anyone working with soil data. Deep canopy, infrastructure destruction, remote/offshore, urban canyon, mining, utilities, wildlife, archaeology.  Hardware agnostic. Standard architectures. Off-line stability.
 
 ## Features
 
