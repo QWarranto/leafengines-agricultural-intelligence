@@ -9,6 +9,19 @@
 
 ### Key Features:
 - **USDA soil data** - Soil composition, pH, N/P/K recommendations
+
+## 💰 Pricing (Local Currencies)
+
+| Plan | USD | EUR (EU) | GBP (UK) | AUD (Australia) |
+|------|-----|----------|----------|-----------------|
+| **Starter** | $49/month | €45/month | £38/month | AU$75/month |
+| **Pro** | $149/month | €135/month | £115/month | AU$225/month |
+| **Enterprise** | Custom | Custom | Custom | Custom |
+
+*All EU/UK prices include applicable VAT. Australian prices include GST.*  
+*Founder pricing available for first 100 customers.*
+
+**Free Testing:** Use `leaf-test-370df0a2e62e` test key or `x-free-tier: true` header
 - **EPA water quality** - Water quality metrics and analysis
 - **Satellite vegetation indices** - NDVI, water-stress overlays from NASA MODIS
 - **AI-powered crop recommendations** - Tailored to exact field polygons
