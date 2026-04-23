@@ -14,12 +14,17 @@
 
 | Plan | USD | EUR (EU) | GBP (UK) | AUD (Australia) |
 |------|-----|----------|----------|-----------------|
-| **Starter** | $49/month | €45/month | £38/month | AU$75/month |
-| **Pro** | $149/month | €135/month | £115/month | AU$225/month |
+| **Starter** | $49/month | €45/month | £38/month | AU$75/month | <--special pricing until June 1st, then $149/mo
+| **Pro** | $149/month | €135/month | £115/month | AU$225/month | <--special pricing until June 1st, then $499/mo
 | **Enterprise** | Custom | Custom | Custom | Custom |
 
 *All EU/UK prices include applicable VAT. Australian prices include GST.*  
 *Founder pricing available for first 100 customers.*
+For premium access
+- **Starter:** normally $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
+- or via Stripe checkout (Starter: $49 Founder Pricing vs $149/mo after June 1, 2026)
+- ->https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02
+- Or, Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs) 
 
 **Free Testing:** Use `leaf-test-370df0a2e62e` test key or `x-free-tier: true` header
 - **EPA water quality** - Water quality metrics and analysis
