@@ -8,6 +8,20 @@ dependencies:
   - numpy
 ---
 
+## ⚡ Get Started Now
+
+**Free tier — no signup, no credit card:**
+- **Test key:** `leaf-test-370df0a2e62e` (works immediately)
+- **Free header:** `x-free-tier: true` (no key needed)
+
+**Ready for production? Founder pricing ends June 1, 2026:**
+- [Starter — $10/mo → lifetime $49/mo lock →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
+- [Pro — $49/mo → lifetime $149/mo lock →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
+
+**Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
+
+---
+
 # Agricultural Intelligence
 
 ## Overview
@@ -208,3 +222,28 @@ python test_skill.py
 ---
 
 *This skill addresses critical agricultural issues identified by experts, including sensor drift (~15% after 6 months) and calibration requirements.*
+
+## 💰 Pricing
+
+### Free Tier — No Credit Card
+- **Test key:** `leaf-test-370df0a2e62e`
+- **Free header:** `x-free-tier: true`
+- **Includes:** Basic soil analysis, county lookup, TurboQuant check
+- **Try it:** [soilcertify.com →](https://soilcertify.com)
+
+### Monthly Subscriptions
+
+| Plan | Price | Included Calls | Best For | Subscribe |
+|------|-------|---------------|----------|-----------|
+| **Founder Starter** | $10/mo → lifetime $49/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) |
+| **Founder Pro** | $49/mo → lifetime $149/mo | 35,000/mo | Production apps | [Subscribe →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) |
+| Starter | $149/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
+| Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
+| Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
+
+> ⏰ **Founder pricing expires June 1, 2026.** First 100 customers lock lifetime rates.
+
+---
+
+🌱 **LeafEngines™** | SoilSidekick Pro® | SoilCertify | SoilTech Suite, Inc.
+*Space gives the picture. We give the truth.*

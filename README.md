@@ -1,305 +1,115 @@
-# LeafEngines Agricultural Intelligence Claude Skill
+# LeafEngines Agricultural Intelligence — Core Intelligence Engine
 
-## 🎯 QGIS Plugin Officially Approved!
+**The patent-protected foundation** powering all LeafEngines integrations — MCP server, ClawHub skill, n8n nodes, Node-RED nodes, and QGIS plugin. Soil analysis, crop recommendations, and environmental intelligence from USDA, EPA, and NOAA data sources.
 
-**Plugin ID:** 4987 (LeafEngines Agricultural Intelligence)  
-**Version:** 1.0.2 Experimental  
-**Status:** ✅ **PUBLICLY AVAILABLE**  
-**Download:** https://plugins.qgis.org/plugins/qgis_leafengines/version/1.0.2/download/
+## ⚡ Get Started Now
 
-### Key Features:
-- **USDA soil data** - Soil composition, pH, N/P/K recommendations
+**Free tier — no signup, no credit card:**
+- **Test key:** `leaf-test-370df0a2e62e` (works immediately)
+- **Free header:** `x-free-tier: true` (no key needed at all)
 
-## 💰 Pricing (Local Currencies)
+**Ready for production? Founder pricing ends June 1, 2026:**
+- [Starter — $10/mo → lifetime $49/mo lock →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02)
+- [Pro — $49/mo → lifetime $149/mo lock →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03)
 
-| Plan | USD | EUR (EU) | GBP (UK) | AUD (Australia) |
-|------|-----|----------|----------|-----------------|
-| **Starter** | $49/month | €45/month | £38/month | AU$75/month |
-| **Pro** | $149/month | €135/month | £115/month | AU$225/month |
-| **Enterprise** | Custom | Custom | Custom | Custom |
-
-*All EU/UK prices include applicable VAT. Australian prices include GST.*  
-*Founder pricing available for first 100 customers.*
-
-**Free Testing:** Use `leaf-test-370df0a2e62e` test key or `x-free-tier: true` header
-- **EPA water quality** - Water quality metrics and analysis
-- **Satellite vegetation indices** - NDVI, water-stress overlays from NASA MODIS
-- **AI-powered crop recommendations** - Tailored to exact field polygons
-- **Carbon credit calculations** - Environmental impact scoring
-- **Offline-first architecture** - Works in remote/"deep canopy" areas
-
-### Strategic Advantages for Partners:
-1. **Pre-vetted, low-risk integration** - Officially approved by QGIS after rigorous review
-2. **Seamless future-proofing** - Aligns with QGIS release cycles (QGIS 4.0.0+ ready)
-3. **Instant credibility** - Discoverable by 500,000+ QGIS users in agriculture sector
-4. **Regulatory advantage** - Preferred for government/EPA/USDA-related procurements
-5. **Ecosystem power** - Integrates with thousands of complementary QGIS plugins
-
-### For OEM Partners:
-Embed LeafEngines agricultural intelligence directly into your hardware or software platforms with confidence. The official QGIS approval eliminates weeks of custom validation, security audits, and compatibility testing.
-
-*Approved: April 14, 2026*
-
-## 🎯 Strategic Vision: From AgTech to Universal Infrastructure
-
-**Watch our 7-minute strategic expansion plan:**
-
-[![LeafEngines Strategic Expansion](https://img.youtube.com/vi/bBHVLbh3tx0/0.jpg)](https://youtu.be/bBHVLbh3tx0)
-
-### **The Strategic Pivot:**
-LeafEngines is executing a calculated pivot from vertical AgTech to **horizontal infrastructure platform**. We're exploiting a critical global vulnerability: the fragility of satellite-based Positioning, Navigation, and Timing (PNT).
-
-### **Core Mission:**
-> **"Space gives the picture. We give the truth."**
-
-### **Key Markets Identified:**
-- **Disaster Response** - GPS-denied environments
-- **Mining & Forestry** - Remote operations
-- **Industrial Automation** - GPS-denied factories
-- **Power Grids** - High-precision timing
-- **Finance** - MiFID II-compliant timestamps
-- **Defense/Intelligence** - Assured PNT in contested theaters
-
-### **Our Advantage:**
-- **Offline-first architecture** - Works anywhere, anytime
-- **CIP Patent protection** - Inertial Dead Reckoning + Kalman logic
-- **Community arbitrage** - Zero-CAC distribution through n8n/Node-RED/MCP
-- **Quality transparency** - v3.0.0 confidence scoring & audit trails
-
-### **The Vision:**
-Transforming our core technology into a **foundational trust layer for autonomous physical AI** - the mandatory infrastructure for a world requiring GPS-independent verification.
-
-### **💡 How to Use This Video (Developer Tool):**
-This video serves as a **non-traditional sales and marketing tool** you can leverage:
-- **Internal Stakeholder Alignment:** Share with your team to explain the strategic vision
-- **Client Presentations:** Demonstrate the company behind the technology
-- **Investor Briefings:** Show the $1.2T horizontal market opportunity
-- **Community Building:** Educate other developers about the broader ecosystem
-
-### **🎬 Cinematic Scene Guide:**
-**Scene 1: Devices on Bench (0:45-1:15)** - Show hardware integration proof
-**Scene 2: Developer Embedding (1:30-2:15)** - Demonstrate integration process
-**Scene 3: Buy→Resell→Market (2:30-3:45)** - Explain business model
-**Scene 4: Strategic Vision (4:00-5:30)** - Share market opportunity
-
-### **🌐 The Offline AI Economy:**
-**Read our philosophical manifesto:** [THE_OFFLINE_AI_ECONOMY.md](https://github.com/soilsidekick/leafengines/blob/main/THE_OFFLINE_AI_ECONOMY.md)
-
-**Core Thesis:** "While much of the AI industry focuses on the size of cloud-based models, those models are unable to execute physical tasks without ground truth integrity."
-
-**Three-Layer Solution:**
-1. **Sensor Fusion** - Local dead reckoning without satellites
-2. **Kalman Gate** - Uncertainty gating prevents database corruption
-3. **Offline-First MCP** - Enables local AI decisions without cloud
-
-**Business Model Revolution:**
-- **Filtered Byte Pricing** - Charge for prevented corruption
-- **Pay-Per-Agent Action** - Bill for successful high-value tasks
-- **Outcome-Based Pricing** - Shift from access to utility
+**Get a professional soil report (no coding required):** [soilcertify.com →](https://soilcertify.com)
 
 ---
 
-## Overview
-This Claude Skill provides agricultural intelligence including soil analysis, crop recommendations, profit calculations, and farm optimization advice. It's designed for farmers, agricultural professionals, and anyone working with soil data. Deep canopy, infrastructure destruction, remote/offshore, urban canyon, mining, utilities, wildlife, archaeology.  Hardware agnostic. Standard architectures. Off-line stability.
+## 🌾 What It Does
 
-## Features
+The core intelligence engine providing agricultural data and analysis through multiple integration channels:
 
-### Core Capabilities
-- **Soil Analysis**: Interpret soil test results and provide recommendations
-- **Crop Recommendations**: Suggest optimal crops based on soil conditions
-- **Profitability Analysis**: Calculate profit margins and ROI for different crops
-- **Sensor Validation**: Detect sensor drift and calibration issues
-- **Planting Guidance**: Provide planting schedules and timing recommendations
+- **Soil Analysis** — USDA SSURGO soil composition, pH, NPK, drainage, recommendations
+- **Crop Recommendations** — Location-specific planting advice based on soil and climate
+- **Environmental Impact** — Patent-pending Environmental Compatibility Score with satellite data fusion
+- **Carbon Credits** — Proprietary models for compliance reporting and sustainability scoring
+- **Water Quality** — EPA monitoring data and contamination risk assessment
+- **Climate Insights** — NOAA historical records and agricultural forecasting
+- **Satellite Data** — NDVI, water-stress overlays from NASA MODIS
+- **Offline-First** — Works in remote/deep canopy areas with GPS-denied capabilities
 
-### Technical Features
-- Integration with SoilSidekickPro API
-- USDA soil database references
-- Market price analysis
-- Weather data integration
-- Executable Python scripts for complex calculations
+## 🚀 Integration Channels
 
-## Installation
+| Channel | Install | Best For |
+|---------|---------|----------|
+| **[MCP Server](https://www.npmjs.com/package/@ancientwhispers54/leafengines-mcp-server)** | `npm install -g @ancientwhispers54/leafengines-mcp-server` | Claude Desktop, Cursor, any MCP client |
+| **[ClawHub Skill](https://github.com/QWarranto/leafengines-clawhub-skill)** | `clawhub install leafengines` | OpenClaw agents |
+| **[Claude Skill](https://github.com/QWarranto/leafengines-claude-skill)** | Import into Claude.ai workspace | Claude.ai users |
+| **[n8n Nodes](https://www.npmjs.com/package/n8n-nodes-leafengines)** | `npm install n8n-nodes-leafengines` | Business automation |
+| **[Node-RED](https://www.npmjs.com/package/node-red-contrib-leafengines)** | `npm install node-red-contrib-leafengines` | IoT/edge automation |
+| **[QGIS Plugin](https://plugins.qgis.org/plugins/qgis_leafengines/)** | QGIS Plugin Manager (ID 4987) | GIS professionals, 500K+ users |
+| **[SoilCertify](https://soilcertify.com)** | No install needed | Professional soil reports, no coding |
 
-### For Claude Desktop/Web
-1. Download the skill package
-2. Follow Claude's skill installation instructions
-3. Import the skill into your Claude workspace
+## 💰 Pricing
 
-### Requirements
-- Python 3.8+
-- Required packages: `requests`, `pandas`, `numpy`
-- Internet connection for API calls
+### Free Tier — No Credit Card
+- **Test key:** `leaf-test-370df0a2e62e`
+- **Free header:** `x-free-tier: true`
+- **Includes:** Basic soil analysis, county lookup, TurboQuant check
+- **Try it:** [soilcertify.com →](https://soilcertify.com)
 
-## Usage Examples
+### Pay-As-You-Go
 
-### Basic Soil Analysis
-```
-User: "My soil test shows pH 6.2, nitrogen 25 ppm, phosphorus 15 ppm, potassium 150 ppm. What should I plant?"
+| Tier | Price | Per-Call Rate | What You Get | Buy |
+|------|-------|--------------|--------------|-----|
+| Commoditized | $0.50/bundle | $0.001/call | Basic soil/weather, county lookup | [Buy →](https://buy.stripe.com/3cIdR99oWajZdjI6EKaMU07) |
+| Enhanced | $1.50/bundle | $0.003/call | Environmental impact, crop suitability, water quality | [Buy →](https://buy.stripe.com/7sY28reJg1NtenM8MSaMU0b) |
+| Proprietary | $5.00/bundle | $0.010/call | Planting optimization, carbon credits, VRT | [Buy →](https://buy.stripe.com/3cIeVd9oW1NtgvU1kqaMU09) |
+| Exclusive | $10.00/bundle | $0.020/call | Patent-pending environmental compatibility scoring | [Buy →](https://buy.stripe.com/6oU4gzbx40Jp6Vk1kqaMU0a) |
 
-Claude with Skill: "Based on your soil analysis, here are my recommendations..."
-```
+### Monthly Subscriptions
 
-### Profitability Comparison
-```
-User: "Should I plant corn or soybeans on my 100-acre field?"
+| Plan | Price | Included Calls | Best For | Subscribe |
+|------|-------|---------------|----------|-----------|
+| **Founder Starter** | $10/mo → lifetime $49/mo | 10,000/mo | Solo developers, prototyping | [Subscribe →](https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02) |
+| **Founder Pro** | $49/mo → lifetime $149/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/cNi3cv1WuajZcfE7IOaMU03) |
+| Starter | $149/mo | 10,000/mo | Solo developers | [Subscribe →](https://buy.stripe.com/5kQ6oHcB88bR93s8MSaMU04) |
+| Pro | $499/mo | 35,000/mo | Production apps, teams | [Subscribe →](https://buy.stripe.com/14A6oH7gO3VBcfE1kqaMU05) |
+| Enterprise | $1,999/mo | 175,000+/mo | White-label, SLA, OEM | [Subscribe →](https://buy.stripe.com/eVqaEXfNkajZ6Vk0gmaMU06) |
+| Enterprise Bundle | $3,499/mo | 685,000/mo | Large OEM, max volume | Contact: sales@leafengines.com |
 
-Claude with Skill: "Let me calculate the profitability for both options..."
-```
+> ⏰ **Founder pricing expires June 1, 2026.** First 100 customers lock lifetime rates.
 
-### Sensor Troubleshooting
-```
-User: "My soil moisture readings seem inconsistent. What should I do?"
+### International Pricing
 
-Claude with Skill: "Sensor drift is common. Here's how to validate and recalibrate..."
-```
+| Region | Starter | Pro | Local Payment Methods |
+|--------|---------|-----|----------------------|
+| **United States** | $49/mo | $149/mo | Card, Apple Pay, Google Pay, Affirm |
+| **European Union** | €45/mo (VAT incl.) | €135/mo (VAT incl.) | Klarna, iDEAL, EPS, Apple/Google Pay |
+| **United Kingdom** | £38/mo (VAT incl.) | £115/mo (VAT incl.) | Afterpay/Clearpay, Apple/Google Pay |
+| **Australia** | AU$75/mo (GST incl.) | AU$225/mo (GST incl.) | Afterpay, Apple/Google Pay |
 
-## File Structure
-```
-leafengines-claude-skill/
-├── Skill.md              # Main skill definition
-├── REFERENCE.md          # Agricultural reference data
-├── soil_analysis.py      # Python analysis scripts
-├── profitability.py      # Profit calculation scripts
-├── sensor_validation.py  # Sensor calibration scripts
-└── README.md            # This file
-```
+## 🎯 Use Cases
 
-## Integration Points
+### For Agronomists & Soil Scientists
+- **Field analysis** — USDA SSURGO data for any US county, instantly
+- **Carbon credit assessment** — Proprietary models for compliance reporting
+- **Environmental impact scoring** — Patent-pending satellite data fusion
+- **Get professional reports without coding:** [soilcertify.com →](https://soilcertify.com)
 
-### External APIs
-- **SoilSidekickPro**: `https://app.soilsidekickpro.com/founders`  <--first 100 only; lifetime pricing discounted up to 70%
-- **USDA Soil Data**: SSURGO database access
-- **Market Prices**: Real-time commodity pricing
-- **Weather Data**: NOAA and weather service integration
+### For Agricultural Consultants
+- **Client-ready analysis** — Soil composition, drainage, NPK recommendations
+- **Sell reports to clients:** [soilcertify.com →](https://soilcertify.com) (172%+ profit margin at $29/mo)
 
-### Data Formats Supported
-- CSV soil test results
-- Excel spreadsheets
-- PDF reports (with text extraction)
-- JSON sensor data exports
+### For Developers & AI Engineers
+- **Multi-platform** — MCP, ClawHub, n8n, Node-RED, QGIS, direct API
+- **TurboQuant** — 6x memory compression for edge/offline deployment
+- **Enterprise governance** — Audit logging, PII protection, SOC 2 alignment
 
-## Best Practices
+## 📞 Support
 
-### For Accurate Results
-1. Provide complete soil test data when possible
-2. Include field size and location information
-3. Specify your primary goals (profit, sustainability, etc.)
-4. Mention any constraints (water availability, equipment, etc.)
+- **API Documentation:** [app.soilsidekickpro.com/api-docs](https://app.soilsidekickpro.com/api-docs)
+- **MCP Documentation:** [app.soilsidekickpro.com/mcp](https://app.soilsidekickpro.com/mcp)
+- **GitHub Issues:** [github.com/QWarranto/leafengines-claude-mcp/issues](https://github.com/QWarranto/leafengines-claude-mcp/issues)
+- **Email:** support@soilsidekickpro.com
+- **Partnerships:** partnerships@leafengines.com
 
-### For Sensor Data
-1. Regular calibration (every 3-6 months)
-2. Multiple sensor validation
-3. Historical trend analysis
-4. USDA reference comparison
+## 📄 License
 
-## Community & Support
+Integration code: Apache 2.0 / MIT. API service: Commercial with free tier. Core algorithms: Patent-protected (U.S. #19/320,727, #19/544,827).
 
-### Discord Community
-Join our agricultural AI community: https://discord.gg/leafengines
+---
 
-### GitHub Repository
-Contribute to the open source version: https://github.com/QWarranto/leafengines-clawhub-skill
-
-### Feedback & Suggestions
-We welcome feedback from agricultural professionals. Your input helps improve the skill for everyone.
-
-## Development
-
-### Adding New Crops
-Edit the crop database in `soil_analysis.py` to add new crops with their requirements.
-
-### Custom Formulas
-Modify the calculation methods in the Python scripts to implement custom agricultural formulas.
-
-### API Integration
-Add new API endpoints in the appropriate script files for additional data sources.
-
-## Security & Privacy
-- All calculations can be performed locally
-- User data is not stored without permission
-- API calls use secure HTTPS connections
-- Agricultural data is treated as confidential
-
-## 🚨 Emergency API Access
-
-**We've deployed a working API to serve the 1,532 developers who cloned this repository!**
-
-### Test API (Try Now)
-Use test key: `leaf-test-370df0a2e62e`
-
-**Works with just county_fips:**
-```json
-{
-  "county_fips": "12086"
-}
-```
-
-### API URLs
-**Option 1 (Supabase):**
-`https://wzgnxkoeqzvueypwzvyn.supabase.co/functions/v1/get-soil-data`
-
-**Option 2 (Render):**
-`https://leafengines-emergency-api-1.onrender.com/v1/soil/analyze`
-
-### Free Tier (No API Key)
-Use header: `x-free-tier: true`
-
-### How to Get Production Access
-1. **Comment on our [Emergency API Access Request Issue #1](https://github.com/QWarranto/leafengines-agricultural-intelligence/issues/1)**
-   *(Issue #1 - Emergency API Access)*
-2. Receive API key via email
-3. Choose from 6 payment methods (PayPal, Cash App, Venmo, Bitcoin, Ethereum, Solana)
-4. Start making API calls immediately
-
-**No signup required for testing - works immediately!**
-
-### Available Endpoints
-- `POST /v1/soil/analyze` - Soil analysis with NPK recommendations
-- `POST /v1/crop/recommend` - Crop recommendations based on soil/weather
-- `GET /v1/health` - Service status check
-- `POST /v1/auth/validate` - Validate API key
-
-### Why This Matters
-We discovered 1,532 developers cloned this repo expecting a working API. Rather than leave them waiting, we deployed a minimal viable API within hours. This demonstrates our commitment to serving the agricultural AI community.
-
-## Acknowledgments
-This skill was developed with feedback from 1,977 agricultural professionals on Reddit who identified critical issues like sensor drift and calibration requirements.
-
-Special thanks to the agricultural expert who highlighted: "Soil sensors drift ~15% after 6 months without calibration. AI planting recommendations go sideways fast if you ignore it."
-
-## License
-This skill is provided under the MIT License. See LICENSE file for details.
-
-## Version
-Current version: 1.0.0
-Last updated: March 29, 2026
-## 🚀 Complete package deployed: Sun Mar 29 13:58:45 EDT 2026
-# Trigger fresh validation
-
-## 🎯 QGIS Plugin Officially Approved!
-
-**Plugin ID:** 4987 (LeafEngines Agricultural Intelligence)  
-**Version:** 1.0.2 Experimental  
-**Status:** ✅ **PUBLICLY AVAILABLE**  
-**Download:** https://plugins.qgis.org/plugins/qgis_leafengines/version/1.0.2/download/
-
-### Key Features:
-- **USDA soil data** - Soil composition, pH, N/P/K recommendations
-- **EPA water quality** - Water quality metrics and analysis
-- **Satellite vegetation indices** - NDVI, water-stress overlays from NASA MODIS
-- **AI-powered crop recommendations** - Tailored to exact field polygons
-- **Carbon credit calculations** - Environmental impact scoring
-- **Offline-first architecture** - Works in remote/"deep canopy" areas
-
-### Strategic Advantages for Partners:
-1. **Pre-vetted, low-risk integration** - Officially approved by QGIS after rigorous review
-2. **Seamless future-proofing** - Aligns with QGIS release cycles (QGIS 4.0.0+ ready)
-3. **Instant credibility** - Discoverable by 500,000+ QGIS users in agriculture sector
-4. **Regulatory advantage** - Preferred for government/EPA/USDA-related procurements
-5. **Ecosystem power** - Integrates with thousands of complementary QGIS plugins
-
-### For OEM Partners:
-Embed LeafEngines agricultural intelligence directly into your hardware or software platforms with confidence. The official QGIS approval eliminates weeks of custom validation, security audits, and compatibility testing.
-
-*Approved: April 14, 2026*
-
+🌱 **LeafEngines™** | SoilSidekick Pro® | SoilCertify | SoilTech Suite, Inc.
+*Space gives the picture. We give the truth.*
