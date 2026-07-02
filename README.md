@@ -1,5 +1,7 @@
 # LeafEngines Agricultural Intelligence — Core Intelligence Engine
 
+> 🏆 **Global Startup Awards 2026 — North America Regional Nominee**
+
 **The patent-protected foundation** powering all LeafEngines integrations — MCP server, ClawHub skill, n8n nodes, Node-RED nodes, and QGIS plugin. Soil analysis, crop recommendations, and environmental intelligence from USDA, EPA, and NOAA data sources.
 
 ## ⚡ Get Started Now
